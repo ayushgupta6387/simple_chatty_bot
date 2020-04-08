@@ -36,16 +36,16 @@ public class Bot {
 
     public void test() {
         System.out.println("Let's test your programming knowledge.");
-        System.out.println("Why do we use methods?");
-        System.out.println("1. To repeat a statement multiple times.");
-        System.out.println("2. To decompose a program into several small subroutines.");
-        System.out.println("3. To determine the execution time of a program.");
-        System.out.println("4. To interrupt the execution of a program.");
+        System.out.println("Scanner class of which package?");
+        System.out.println("1. java.lang package");
+        System.out.println("2. java.io");
+        System.out.println("3. java.util");
+        System.out.println("4. java.applet");
     }
 
     public void end() {
         int answer = scanner.nextInt();
-        if (answer == 2) {
+        if (answer == 1 || answer == 2 || answer == 4) {
             System.out.println("Please, try again.");
         } else {
             System.out.println("Congratulations, have a nice day!");

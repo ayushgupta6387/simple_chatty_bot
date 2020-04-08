@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="136e3777-101e-4b9a-b29d-3428b5d366b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatbot/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatbot/Bot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chatbot/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatbot/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +34,32 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chatbot.Main" />
+      <module name="simple_chatty_bot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chatbot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586345287003</updated>
-      <workItem from="1586345291390" duration="1649000" />
+      <workItem from="1586345291390" duration="2783000" />
     </task>
     <task id="LOCAL-00001" summary="created a method for the chattyBot">
       <created>1586345818510</created>
@@ -101,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586346799756</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="create a object to call the methods">
+      <created>1586346964931</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586346964931</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,19 +162,36 @@
     <MESSAGE value="create a count method which will count up to the user input" />
     <MESSAGE value="created a method to ask question from user" />
     <MESSAGE value="created a method to check the answer" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a method to check the answer" />
+    <MESSAGE value="create a object to call the methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a object to call the methods" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1586346798256">
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1586346963251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586346798256" />
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586346963251" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1586345594325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586345594325" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586348086958">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586348086958" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586348086957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586348086957" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586348086957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586348086957" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586348086957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586348086957" />
   </component>
 </project>
