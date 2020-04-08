@@ -43,4 +43,13 @@ public class Bot {
         System.out.println("4. To interrupt the execution of a program.");
     }
 
+    public void end() {
+        int answer = scanner.nextInt();
+        if (answer == 2) {
+            System.out.println("Please, try again.");
+        } else {
+            System.out.println("Congratulations, have a nice day!");
+        }
+    }
+
 }
