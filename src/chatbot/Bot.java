@@ -15,4 +15,14 @@ public class Bot {
         String name = scanner.nextLine();
         System.out.println("What a great name you have, " + name + "!");
     }
+
+    public void guessAge() {
+        System.out.println("Let me guess your age.");
+        System.out.println("Say me remainders of dividing your age by 3, 5 and 7.");
+        int rem3 = scanner.nextInt();
+        int rem5 = scanner.nextInt();
+        int rem7 = scanner.nextInt();
+
+    }
+
 }
