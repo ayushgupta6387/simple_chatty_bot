@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="136e3777-101e-4b9a-b29d-3428b5d366b7" name="Default Changelist" comment="" />
+    <list default="true" id="136e3777-101e-4b9a-b29d-3428b5d366b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/chatbot/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatbot/Bot.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,18 +43,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586345287003</updated>
-      <workItem from="1586345291390" duration="385000" />
+      <workItem from="1586345291390" duration="675000" />
     </task>
+    <task id="LOCAL-00001" summary="created a method for the chattyBot">
+      <created>1586345818510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586345818510</updated>
+    </task>
+    <task id="LOCAL-00002" summary="print the bot name and birth year">
+      <created>1586345885512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586345885512</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created a method for the chattyBot" />
+    <MESSAGE value="print the bot name and birth year" />
+    <option name="LAST_COMMIT_MESSAGE" value="print the bot name and birth year" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1586345816291">
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1586345883983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586345816291" />
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586345883983" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1586345594325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
