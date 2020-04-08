@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586345287003</updated>
-      <workItem from="1586345291390" duration="990000" />
+      <workItem from="1586345291390" duration="1242000" />
     </task>
     <task id="LOCAL-00001" summary="created a method for the chattyBot">
       <created>1586345818510</created>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586346140179</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="find out the age using remainders">
+      <created>1586346310623</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586346310623</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,16 +102,17 @@
     <MESSAGE value="print the bot name and birth year" />
     <MESSAGE value="created method to take the name of the user" />
     <MESSAGE value="created a method to find out the age and take input of remainders" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a method to find out the age and take input of remainders" />
+    <MESSAGE value="find out the age using remainders" />
+    <option name="LAST_COMMIT_MESSAGE" value="find out the age using remainders" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1586346138558">
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1586346309196">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586346138558" />
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586346309196" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1586345594325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
